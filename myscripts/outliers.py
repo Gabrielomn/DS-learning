@@ -20,3 +20,4 @@ sepal_width = sepal_width.reshape(-1,1)
 detector = KNN()
 detector.fit(sepal_width)
 previsoes = detector.labels_
+

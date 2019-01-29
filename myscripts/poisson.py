@@ -23,3 +23,5 @@ mesma coisa que:
 '''
 
 poisson.cdf(3,2)
+
+poisson.pmf(12,10)
